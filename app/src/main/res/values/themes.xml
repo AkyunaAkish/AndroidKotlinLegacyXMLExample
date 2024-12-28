@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.DOBCalculator" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/textOrange</item>
+        <item name="colorPrimaryVariant">@color/textOrange</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/textOrange</item>
+        <item name="colorSecondaryVariant">@color/textOrange</item>
+        <item name="colorOnSecondary">@color/textOrange</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">@color/textOrange</item>
+    </style>
+</resources>
